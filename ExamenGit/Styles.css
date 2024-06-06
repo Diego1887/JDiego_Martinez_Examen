@@ -1,5 +1,9 @@
 body{
-    background-color: red;
-    color: brown;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:violet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: crimson;
+    width: 400px;
+    height: 600px;
+    
 }
