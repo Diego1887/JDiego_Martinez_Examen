@@ -54,24 +54,25 @@
   "cost": 1800
 }
 ```
-
+```
 {
   _"id": 2,
   "num_activities": 10,
   "num_employs": 20,
   "cost": 3500
 }
-
+```
+```
 {
   _"id": 3,
   "num_activities": 20,
   "num_employs": 40,
   "cost": 6900
 }
-
+```
 
 #### Inserción de datos en la colección Client
-
+```
 {
   "_id": 10,
   "name": "Jose",
@@ -80,7 +81,8 @@
   "adress": "20896, México, calle madero #134",
   "phone_num": 4951323434
 }
-
+```
+```
 {
   "_id": 11,
   "name": "Miguel",
@@ -89,7 +91,8 @@
   "adress": "20823, México, calle Zapata y Portillo #345-A",
   "phone_num": 4954567890
 }
-
+```
+```
 {
   "_id": 12,
   "name": "Juan",
@@ -98,10 +101,10 @@
   "adress": "20476, México, calle Vasconcelos #113-C",
   "phone_num": 4951239089
 }
-
+```
 
 #### inserción de datos en la colección ShoppingRecord
-
+```
 {
   "_id": 125,
   "package_id": 1,
@@ -110,7 +113,8 @@
   "hour": "14:30:00",
   "paid": 1800
 }
-
+```
+```
 {
   "_id": 20,
   "package_id": 3,
@@ -119,7 +123,8 @@
   "hour": "16:23:00",
   "paid": 6900
 }
-
+```
+```
 {
   "_id": 102,
   "package_id": 2,
@@ -128,10 +133,10 @@
   "hour": "22:15:00",
   "paid": 3550
 }
-
+```
 
 #### inserción de datos en la colección Employes
-
+```
 {
   "_id": 65,
   "name": "Juan",
@@ -140,7 +145,8 @@
   "email": "juangomez110@gmail.com",
   "password": "juanÑ23"
 }
-
+```
+```
 {
   "_id": 88,
   "name": "Luis Daniel",
@@ -149,7 +155,8 @@
   "email": "esquedaluisdaniel23@gmail.com",
   "password": "dani2323"
 }
-
+```
+```
 {
   "_id": 29,
   "name": "Jose Miguel",
@@ -158,7 +165,7 @@
   "email": "josemiguelp33@gmail.com",
   "password": "pineda1212"
 }
-
+```
 
 #### Inserción de datos en la colección Schedules
 
