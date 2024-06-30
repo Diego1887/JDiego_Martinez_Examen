@@ -3,19 +3,14 @@
 #### Creación de la base de datos
 
 * use Clean_Squad
-
   
 #### Creación de la colección Package
 
 * db.createCollection ("Package")
 
-
-
 #### Creación de la colección Client
 
 * db.createCollection ("Client")
-
-
 
 #### Creación de la colección Shopping Record
 
