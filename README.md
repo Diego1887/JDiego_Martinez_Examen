@@ -4,37 +4,37 @@
 
 * use Clean_Squad
 
-## Creación de la colección Package
+### Creación de la colección Package
 
-db.createCollection ("Package")
+* db.createCollection ("Package")
 
-## Creación de la colección Client
+### Creación de la colección Client
 
-db.createCollection ("Client")
+* db.createCollection ("Client")
 
-## Creación de la colección Shopping Record
+### Creación de la colección Shopping Record
 
-db.createCollection ("ShoppingRecord")
+* db.createCollection ("ShoppingRecord")
 
-## Creación de la colección Employes
+### Creación de la colección Employes
 
-db.createCollection ("Employes")
+* db.createCollection ("Employes")
 
-## Creación de la colección Chat
+### Creación de la colección Chat
 
-db.createCollection ("Chat")
+* db.createCollection ("Chat")
 
-## Creación de la colección Activities
+### Creación de la colección Activities
 
-db.createCollection ("Activities")
+* db.createCollection ("Activities")
 
-## Creación de la colección Schedules
+### Creación de la colección Schedules
 
-db.createCollection ("Schedules")
+* db.createCollection ("Schedules")
 
-## Creación de la colección Group Activities
+### Creación de la colección Group Activities
 
-db.createCollection ("GroupActivities")
+* db.createCollection ("GroupActivities")
 
 
 Inserción de datos (en mongo atlas)
