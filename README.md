@@ -1,6 +1,6 @@
 # DOCUMENTACIÓN DB
 
-**Creación de la base de datos**
+#### Creación de la base de datos
 
 * use Clean_Squad
 
