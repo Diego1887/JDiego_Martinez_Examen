@@ -260,6 +260,3 @@
   "generic_data": "limpiar el área, desinfectar y sacar todo lo cubierto por insectos"
 }
 ```
-
-
-![mongoatlas](https://www.bing.com/images/search?view=detailV2&ccid=C3yfxQjP&id=F4A740A1CE6B2DB853CAD1F43EDBCC85D4E921B0&thid=OIP.C3yfxQjPHJ9bkVxnFY_xZAHaEK&mediaurl=https%3a%2f%2fwww.mongodb.com%2fassets%2fimages%2fcloud%2fatlas-splash.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0b7c9fc508cf1c9f5b915c67158ff164%3frik%3dsCHp1IXM2z700Q%26pid%3dImgRaw%26r%3d0&exph=720&expw=1280&q=mongo+y+mongo+atlas&simid=608033152205076104&FORM=IRPRST&ck=E9AE0E2127689FB9552EC965753414F9&selectedIndex=4&itb=0)
