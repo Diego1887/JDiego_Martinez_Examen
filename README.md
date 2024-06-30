@@ -218,7 +218,7 @@
 }
 ```
 
-#### 7. Inserción de datos en la colección Chat
+#### 7. Inserción de datos en la colección *Chat*
 ```
 {
 
