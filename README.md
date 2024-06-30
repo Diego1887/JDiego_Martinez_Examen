@@ -45,7 +45,7 @@
 ### Inserción de datos (en mongo atlas)
 
 
-#### 1. Inserción datos en la colección Package
+#### 1. Inserción datos en la colección *PACKAGE*
 ```
 {
   _"id": 1,
@@ -71,7 +71,7 @@
 }
 ```
 
-#### 2. Inserción de datos en la colección Client
+#### 2. Inserción de datos en la colección *CLIENT*
 ```
 {
   "_id": 10,
