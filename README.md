@@ -45,7 +45,7 @@
 ### Inserción de datos (en mongo atlas)
 
 
-#### 1. Inserción datos en la colección *PACKAGE*
+#### 1. Inserción datos en la colección *Package*
 ```
 {
   _"id": 1,
@@ -71,7 +71,7 @@
 }
 ```
 
-#### 2. Inserción de datos en la colección *CLIENT*
+#### 2. Inserción de datos en la colección *Cient*
 ```
 {
   "_id": 10,
@@ -103,7 +103,7 @@
 }
 ```
 
-#### 3. Inserción de datos en la colección ShoppingRecord
+#### 3. Inserción de datos en la colección *ShoppingRecord*
 ```
 {
   "_id": 125,
@@ -135,7 +135,7 @@
 }
 ```
 
-#### 4. Inserción de datos en la colección Employes
+#### 4. Inserción de datos en la colección *Employes*
 ```
 {
   "_id": 65,
@@ -167,7 +167,7 @@
 }
 ```
 
-#### 5. Inserción de datos en la colección Schedules
+#### 5. Inserción de datos en la colección *Schedules*
 ```
 {
 
@@ -196,7 +196,7 @@
 }
 ```
 
-#### 6. Inserción de datos en la colección GroupActivities
+#### 6. Inserción de datos en la colección *GroupActivities*
 ```
 {
 
@@ -227,7 +227,7 @@
 }
 ```
 
-#### 8. Inserción de datos en la colección Activities
+#### 8. Inserción de datos en la colección *Activities*
 ```
 {
 
