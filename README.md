@@ -46,14 +46,14 @@
 
 
 #### Inserción datos en la colección Package
-
+...
 {
   _"id": 1,
   "num_activities": 5,
   "num_employs": 10,
   "cost": 1800
 }
-
+...
 {
   _"id": 2,
   "num_activities": 10,
