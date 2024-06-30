@@ -45,7 +45,7 @@
 ### Inserción de datos (en mongo atlas)
 
 
-#### Inserción datos en la colección Package
+#### 1. Inserción datos en la colección Package
 ```
 {
   _"id": 1,
@@ -71,7 +71,7 @@
 }
 ```
 
-#### Inserción de datos en la colección Client
+#### 2. Inserción de datos en la colección Client
 ```
 {
   "_id": 10,
@@ -103,7 +103,7 @@
 }
 ```
 
-#### inserción de datos en la colección ShoppingRecord
+#### 3. Inserción de datos en la colección ShoppingRecord
 ```
 {
   "_id": 125,
@@ -135,7 +135,7 @@
 }
 ```
 
-#### inserción de datos en la colección Employes
+#### 4. Inserción de datos en la colección Employes
 ```
 {
   "_id": 65,
@@ -167,8 +167,8 @@
 }
 ```
 
-#### Inserción de datos en la colección Schedules
-
+#### 5. Inserción de datos en la colección Schedules
+```
 {
 
   "employ_id": 65,
@@ -176,7 +176,8 @@
   "departure_time": "04:00:00 PM",
   "work_days": 5
 }
-
+```
+```
 {
 
   "employ_id": 88,
@@ -184,7 +185,8 @@
   "departure_time": "06:00:00 PM",
   "work_days": 6
 }
-
+```
+```
 {
 
   "employ_id": 29,
@@ -192,10 +194,10 @@
   "departure_time": "04:00:00 PM",
   "work_days": 5
 }
+```
 
-
-#### Inserción de datos en la colección GroupActivities
-
+#### 6. Inserción de datos en la colección GroupActivities
+```
 {
 
   "employ_id": [65, 88, 29],
@@ -203,7 +205,8 @@
   "status": "terminada",
   "adress": "20476, México, calle Vasconcelos #113-C"
 }
-
+```
+```
 {
 
   "employ_id": [65, 88],
@@ -211,10 +214,10 @@
   "status": "en progreso",
   "adress": "20896, México, calle madero #134"
 }
+```
 
-
-#### Inserción de datos en la colección Chat
-
+#### 7. Inserción de datos en la colección Chat
+```
 {
 
   "employ_id": 88,
@@ -222,10 +225,10 @@
   "hour": "12:00:00 AM",
   "day": "Lunes"
 }
+```
 
-
-#### Inserción de datos en la colección Activities
-
+#### 8. Inserción de datos en la colección Activities
+```
 {
 
   "employ_id": 29,
@@ -234,7 +237,8 @@
   "status": "por hacer",
   "generic_data": "barrer la casa y trapear el piso"
 }
-
+```
+```
 {
 
   "employ_id": 65,
@@ -243,7 +247,8 @@
   "status": "terminada",
   "generic_data": "limpiar toda el área y cubrir con desinfectante"
 }
-
+```
+```
 {
 
   "employ_id": 88,
@@ -252,3 +257,4 @@
   "status": "en progreso",
   "generic_data": "limpiar el área, desinfectar y sacar todo lo cubierto por insectos"
 }
+```
