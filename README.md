@@ -4,43 +4,43 @@
 
 * use Clean_Squad
 
-### Creación de la colección Package
+#### Creación de la colección Package
 
 * db.createCollection ("Package")
 
-### Creación de la colección Client
+#### Creación de la colección Client
 
 * db.createCollection ("Client")
 
-### Creación de la colección Shopping Record
+#### Creación de la colección Shopping Record
 
 * db.createCollection ("ShoppingRecord")
 
-### Creación de la colección Employes
+#### Creación de la colección Employes
 
 * db.createCollection ("Employes")
 
-### Creación de la colección Chat
+#### Creación de la colección Chat
 
 * db.createCollection ("Chat")
 
-### Creación de la colección Activities
+#### Creación de la colección Activities
 
 * db.createCollection ("Activities")
 
-### Creación de la colección Schedules
+#### Creación de la colección Schedules
 
 * db.createCollection ("Schedules")
 
-### Creación de la colección Group Activities
+#### Creación de la colección Group Activities
 
 * db.createCollection ("GroupActivities")
 
 
-Inserción de datos (en mongo atlas)
+### Inserción de datos (en mongo atlas)
 
 
-Inserción datos en la colección Package
+#### Inserción datos en la colección Package
 
 {
   _"id": 1,
@@ -63,7 +63,8 @@ Inserción datos en la colección Package
   "cost": 6900
 }
 
-Inserción de datos en la colección Client
+
+#### Inserción de datos en la colección Client
 
 {
   "_id": 10,
@@ -92,7 +93,8 @@ Inserción de datos en la colección Client
   "phone_num": 4951239089
 }
 
-inserción de datos en la colección ShoppingRecord
+
+#### inserción de datos en la colección ShoppingRecord
 
 {
   "_id": 125,
@@ -121,7 +123,8 @@ inserción de datos en la colección ShoppingRecord
   "paid": 3550
 }
 
-inserción de datos en la colección Employes
+
+#### inserción de datos en la colección Employes
 
 {
   "_id": 65,
@@ -150,7 +153,8 @@ inserción de datos en la colección Employes
   "password": "pineda1212"
 }
 
-Inserción de datos en la colección Schedules
+
+#### Inserción de datos en la colección Schedules
 
 {
 
@@ -176,7 +180,8 @@ Inserción de datos en la colección Schedules
   "work_days": 5
 }
 
-Inserción de datos en la colección GroupActivities
+
+#### Inserción de datos en la colección GroupActivities
 
 {
 
@@ -194,7 +199,8 @@ Inserción de datos en la colección GroupActivities
   "adress": "20896, México, calle madero #134"
 }
 
-Inserción de datos en la colección Chat
+
+#### Inserción de datos en la colección Chat
 
 {
 
@@ -204,7 +210,8 @@ Inserción de datos en la colección Chat
   "day": "Lunes"
 }
 
-Inserción de datos en la colección Activities
+
+#### Inserción de datos en la colección Activities
 
 {
 
