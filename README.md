@@ -1,5 +1,7 @@
 # DOCUMENTACIÓN DB
 
+## Creación de la Base de Datos (MongoDB Compass)
+
 #### Creación de la base de datos
 
 * use Clean_Squad
